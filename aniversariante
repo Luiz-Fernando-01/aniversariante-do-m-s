@@ -1,0 +1,6 @@
+
+É um site que irá mostrar o aniversariante do mês em uma tela. O objetivo é criaruma aplicação web que permita aos usuarios adicionar e visualizar aniversarios de amigos e familiares.
+Funcinalidades:
+Cadastro de usuarios: permitir que os usuarios se cadastrem e façam login.
+Adicionar aniversarios: podem adicionar com nome, data e mansagem personalizada.
+Visualização no calendario: exibir um calendario mensal onde os aniversario são destacados.
